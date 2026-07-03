@@ -56,7 +56,7 @@ function handleLogout() {
   return (
     <div className="page">
       <div className="navbar">
-        <span>🛒 Amazon Clone</span>
+        <span>🛒 E-Commerce App</span>
         <div style={{ display: "flex", gap: "16px", alignItems: "center" }}>
           <button className="cart-btn" onClick={() => navigate("/cart")}>
             🛒 Cart {totalItems > 0 && <span className="cart-count">{totalItems}</span>}
