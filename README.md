@@ -1,4 +1,4 @@
-# Amazon Clone - Full Stack E-Commerce App
+# Full Stack E-Commerce App
 
 A complete MERN stack e-commerce application built with React, Node.js, Express, and MongoDB.
 
